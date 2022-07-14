@@ -1,4 +1,3 @@
-![Android Emulator - Pixel_XL_API_28_5554 15-07-2022 05_11_09](https://user-images.githubusercontent.com/85372115/179119336-a56b0be2-fa5b-4569-b99c-d2b399eeb8ad.png)
 # flutter_youtube
 
 A new Flutter project.
@@ -17,4 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Uploading Android Emulator - Pixel_XL_API_28_5554 15-07-2022 05_11_09.png…]()
+
+
+![Android Emulator - Pixel_XL_API_28_5554 15-07-2022 05_11_09](https://user-images.githubusercontent.com/85372115/179119336-a56b0be2-fa5b-4569-b99c-d2b399eeb8ad.png)
+
